@@ -48,4 +48,4 @@ while True:
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/1530250d-e8e4-455d-b21b-3fd4419b8ad9" />
 
 ## RESULT
-Thus, python program to perform stop and wait protocol was successfully executed
+Thus, python program for the implementation of Sliding Window Protocol was successfully executed
